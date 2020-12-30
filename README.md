@@ -1,6 +1,6 @@
 # art
 
-tis just an artdump (just digital fanart for now)
+this is just an artdump (just digital fanart for now)
 finished pieces only
 
 structure
