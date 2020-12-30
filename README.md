@@ -1,6 +1,6 @@
 # art
 
-this is just an artdump (just digital fanart for now)
+this is just an artdump (just digital fanart for now, might add some trad drawings later)
 finished pieces only
 
 structure
